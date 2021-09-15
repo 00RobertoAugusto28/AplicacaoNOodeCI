@@ -1,0 +1,22 @@
+{
+  "name": "cursogit",
+  "version": "1.0.0",
+  "description": "Aplicativo da aula",
+  "main": "\t\t",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00RobertoAugusto28/AplicacaoNOodeCI.git"
+  },
+  "keywords": [
+    "aplicacao"
+  ],
+  "author": "Roberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00RobertoAugusto28/AplicacaoNOodeCI/issues"
+  },
+  "homepage": "https://github.com/00RobertoAugusto28/AplicacaoNOodeCI#readme"
+}

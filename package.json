@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/00RobertoAugusto28/AplicacaoNOodeCI/issues"
   },
-  "homepage": "https://github.com/00RobertoAugusto28/AplicacaoNOodeCI#readme"
+  "homepage": "https://github.com/00RobertoAugusto28/AplicacaoNOodeCI#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
 }
